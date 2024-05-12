@@ -11,7 +11,6 @@ Features:
 Functionalities: 
   We can login our existing account and we can also signup for the new account and then we can do chats with our friends
   
-We can login our 
 Setup .env file
   PORT=...
   MONGO_DB_URI=...
